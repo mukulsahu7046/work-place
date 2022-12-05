@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;800&display=swap');
+
+.oval
+{
+    box-sizing: border-box;
+    width: 158px;
+    height: 50px;
+
+    margin-top: 100px;
+    margin-left: 690px;
+    border: 2px solid #4943DA;
+    border-radius: 20px;
+}
+.oval-span
+{
+width: 125px;
+height: 21px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 42px;
+/* identical to box height */
+
+text-align: center;
+
+color: #4943DA;
+
+}
+.main-div{
+    
+width: 1162px;
+height: 523px;
+
+
+background: #4540DB;
+border-radius: 20px;
+margin-top: 100px;
+margin-left: 180px;
+margin-bottom: 200px;
+}
+
+.teacher
+{
+    margin-top: 20px;
+    margin-left: -600px;
+}
+.get-matched
+{
+    position: absolute;
+width: 516px;
+height: 141px;
+left: 748.38px;
+top: 1250px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+}
+
+.big-line
+{
+    position: absolute;
+width: 553px;
+height: 42px;
+left: 748.38px;
+top: 1450px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad0276ad.css",
+    "main.js": "/static/js/main.1f050883.js",
+    "static/js/787.968e87f6.chunk.js": "/static/js/787.968e87f6.chunk.js",
+    "static/media/cartoon.png": "/static/media/cartoon.6135a4668c88b9a5f29f.png",
+    "static/media/teacher.png": "/static/media/teacher.5ab80859faf20cc3b6a2.png",
+    "index.html": "/index.html",
+    "main.ad0276ad.css.map": "/static/css/main.ad0276ad.css.map",
+    "main.1f050883.js.map": "/static/js/main.1f050883.js.map",
+    "787.968e87f6.chunk.js.map": "/static/js/787.968e87f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0276ad.css",
+    "static/js/main.1f050883.js"
+  ]
+}

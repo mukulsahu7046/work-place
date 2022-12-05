@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;800&display=swap');
+
+.jobdoor{
+    width: 300px;
+    height: 100px;
+    margin-left: -1100px;
+}
+
+.label{
+    background-color: #F6F7FC;
+}
+
+h1{
+    margin-left:430px ;
+    
+width: 675px;
+height: 129px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 82px;
+text-align: center;
+
+color: #000000;
+
+}
+
+p{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+width: 497.93px;
+height: 74.87px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+
+transform: rotate(-0.64deg);
+}
